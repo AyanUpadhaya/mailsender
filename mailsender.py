@@ -4,9 +4,9 @@ import smtplib,ssl
 smtp_server="smtp.gmail.com"
 port=587 #for starttls
 
-sender_email="ayanU881@gmail.com"
-password="ayanU2005"
-reciver_email="ayanupadhaya2010@gmail.com"
+sender_email=" "
+password=" "
+reciver_email=" "
 message=input("Enter your message:")
 #create a secure ssl context
 
